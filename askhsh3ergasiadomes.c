@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> AGURIA
 #include <stdlib.h>
 
 #define SIZE 80
